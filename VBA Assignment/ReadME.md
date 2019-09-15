@@ -1,2 +1,2 @@
 ## VBA HW Assignment 
-- only part 1
+- Contains part 1
