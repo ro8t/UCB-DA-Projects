@@ -1,6 +1,6 @@
-## UCB-DA-Projects
+# UCB-DA-Projects
 -----------------------------------------------------------------------------------------
-# Data Analytics assignments uploaded here for submission
+## Data Analytics assignments uploaded here for submission
 
 Repository Contains:
 * Excel Submission
