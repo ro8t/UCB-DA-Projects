@@ -7,6 +7,7 @@ Repository Contains:
   * 1 word document with report questions/answers
   * 1 excel document with completed sheets
 * VBA Submission
+  * 1 xlsm (vba compatible) excel document with completed assignment
 * 2 Python Submissions
-  * PyBank
-  * PyPoll
+  * PyBank completed .py files
+  * PyPoll completed .py files
