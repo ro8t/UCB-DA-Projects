@@ -11,3 +11,6 @@ Repository Contains:
 * 2 Python Submissions
   * PyBank completed .py files
   * PyPoll completed .py files
+* Pandas Submission
+  * Heroes of Pymoli jupyter notebook file submission
+
