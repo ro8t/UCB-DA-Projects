@@ -13,4 +13,7 @@ Repository Contains:
   * PyPoll completed .py files
 * Pandas Submission
   * Heroes of Pymoli jupyter notebook file submission
+* Matplotlib Submission
+  * pymaceuticals_submission jupyter notebook file submission
+  * 4 png files as outputted by graphs/plots code
 
